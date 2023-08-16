@@ -15,7 +15,7 @@ This is a project on a basic Task Manager based on C that will perform basic tas
 8. Store completed tasks
 
 ## But that's nothing new!
-Yes, that's just a basic task manager for now. More implementations ike the following are to be added later:
+Yes, that's just a basic task manager for now. More implementations like the following are to be added later:
 1. Rewarding system based on how quickly the task is completed
 2. Rate of completion of tasks
 3. Percentage of tasks completed on time versus Percentage of tasks completed late
