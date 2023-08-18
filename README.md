@@ -20,6 +20,7 @@ Yes, that's just a basic task manager for now. More implementations like the fol
 2. Rate of completion of tasks
 3. Percentage of tasks completed on time versus Percentage of tasks completed late
 4. Milestones
+5. Reminder system
 
 ## That's it?
 As of now, yes. This will all be console based for now. Later on, more features and maybe swicth to GUI may occur.
